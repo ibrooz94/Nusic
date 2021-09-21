@@ -6,8 +6,9 @@
 .vscode/
 complete/
 NEW_FEATUREs.txt
-auth.py
+
 old.py
+move.py
 
 
 
@@ -141,5 +142,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
 

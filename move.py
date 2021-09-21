@@ -5,7 +5,7 @@ directory = "./"
 files_in_directory = os.listdir(directory)
 filtered_files = [file for file in files_in_directory if file.endswith(".mp3")]
 destination = "../"
-delete_files = ["cover.jpg", "spotify.json", "results.json"]
+delete_files = ["cover.jpg", "spotify_results.json", "YT_results.json"]
 
 
 for file in filtered_files:
